@@ -9,8 +9,8 @@ export const siteConfig: SiteConfig = {
   intro:
     "I work across React, Next.js, React Native, Expo, and Node.js to develop responsive interfaces, integrate APIs, and deliver functional web and mobile applications.",
   description:
-    "Jeevananthan K is a full-stack and mobile developer in Cuddalore, Tamil Nadu, building web and mobile products with React, Next.js, React Native, Expo, and Node.js.",
-  location: "Cuddalore, Tamil Nadu, India",
+    "Jeevananthan K is a full-stack and mobile developer in Chennai, Tamil Nadu, building web and mobile products with React, Next.js, React Native, Expo, and Node.js.",
+  location: "Chennai, Tamil Nadu, India",
   email: "jeevananthankumar@gmail.com",
   phone: "+91 8838357996",
   github: "https://github.com/Jeeva-code25",

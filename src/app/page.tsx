@@ -19,7 +19,7 @@ export default function HomePage() {
     email: `mailto:${siteConfig.email}`,
     address: {
       "@type": "PostalAddress",
-      addressLocality: "Cuddalore",
+      addressLocality: "Chennai",
       addressRegion: "Tamil Nadu",
       addressCountry: "IN",
     },
