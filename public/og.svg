@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <defs>
+    <radialGradient id="g" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 80) rotate(120) scale(700 420)">
+      <stop stop-color="#C5F467"/>
+      <stop offset="1" stop-color="#C5F467" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#101110"/>
+  <rect width="1200" height="630" fill="url(#g)" fill-opacity="0.3"/>
+  <g transform="translate(80 56) scale(2)">
+    <rect width="32" height="32" rx="8" fill="#C5F467"/>
+    <g stroke="#101110" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M13 8v11.5a4 4 0 0 1-4 4"/>
+      <path d="M13 16.5L21.5 8"/>
+      <path d="M16.8 12.7L22.5 23.5"/>
+    </g>
+  </g>
+  <text x="80" y="190" fill="#A1A79F" font-family="Consolas, ui-monospace, monospace" font-size="22" letter-spacing="4">FULL-STACK &amp; MOBILE DEVELOPER</text>
+  <text x="80" y="270" fill="#F1F2EC" font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="76">Jeevananthan K</text>
+  <text x="80" y="350" fill="#A1A79F" font-family="Segoe UI, Arial, sans-serif" font-size="30">Engineering digital experiences</text>
+  <text x="80" y="395" fill="#A1A79F" font-family="Segoe UI, Arial, sans-serif" font-size="30">across web and mobile.</text>
+  <text x="80" y="540" fill="#C5F467" font-family="Consolas, ui-monospace, monospace" font-size="18" letter-spacing="3">REACT &#183; NEXT.JS &#183; REACT NATIVE &#183; EXPO &#183; NODE.JS</text>
+</svg>
